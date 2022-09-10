@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "455154317590",
+    "project_id": "quanlichitieu2022",
+    "storage_bucket": "quanlichitieu2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455154317590:android:79b6010eb79b1a58b13837",
+        "android_client_info": {
+          "package_name": "com.quanlichitieu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455154317590-ktl207hskn5edlv0n6l1et2kf1gsudm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quanlichitieu",
+            "certificate_hash": "1e894fa0f6a17c08fd8e2422f5ba80685f5583a9"
+          }
+        },
+        {
+          "client_id": "455154317590-qlestphpl1dosq40mglabaccevgrc6go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1XDzqLnLqWbMtVf9UEQ6fE4KmYMhs3iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455154317590-qlestphpl1dosq40mglabaccevgrc6go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

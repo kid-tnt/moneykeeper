@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mhome"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+
+        />
+    <item android:title="History"
+        android:icon="@drawable/iconhistory"
+        android:id="@+id/mhistory"
+        />
+    <item android:title="Analytics"
+        android:icon="@drawable/icanalytics"
+        android:id="@+id/mAnalytic"
+        />
+    <item
+        android:title="Account"
+        android:icon="@drawable/ic_account"
+        android:id="@+id/maccount"
+        />
+
+
+</menu>

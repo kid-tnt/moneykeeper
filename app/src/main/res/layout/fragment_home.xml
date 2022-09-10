@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.FragmentHome"
+    android:orientation="vertical"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="100dp"
+     android:orientation="vertical"
+     android:background="@color/blue1"
+     android:gravity="center"
+     >
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:gravity="center"
+         android:text="Home"
+         android:textSize="30dp"
+         android:textColor="@color/white"
+         />
+ </LinearLayout>
+    <TextView
+        android:id="@+id/tvTong"
+        android:text="Tong: "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_margin="15dp"
+        android:textColor="@color/blue1"
+        />
+    <androidx.recyclerview.widget.RecyclerView
+        android:background="@color/grey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recycleView"
+        android:layout_margin="15dp"
+        />
+
+</LinearLayout>
